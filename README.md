@@ -1,0 +1,2 @@
+# hikma
+python simple project 
